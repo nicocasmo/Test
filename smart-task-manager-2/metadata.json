@@ -1,0 +1,6 @@
+
+{
+  "name": "Smart Task Manager",
+  "description": "A simple yet powerful to-do application that uses AI to help you break down tasks into manageable subtasks. Manage your projects efficiently with a clean and intuitive interface.",
+  "requestFramePermissions": []
+}
